@@ -53,7 +53,7 @@ Okay, we did it. Let's add another paragraph for the commenter's name, since we 
 </div>
 ```
 
-Great! Now we have another comments, so let's go ahead and get back in that HTML and add it.
+Great! Now we have another comment, so let's go ahead and get back in that HTML and add it.
 
 ![frustrated Jordan](http://i.giphy.com/LJ1XTfxW60Luw.gif)
 
@@ -216,3 +216,5 @@ We've walked through creating a very basic template for a blog comments section,
 - [MDN: innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 - [MDN: appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 - [MDN: createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-hand-written-templates'>Javascript Hand Written Templates</a> on Learn.co and start learning to code for free.</p>
