@@ -209,10 +209,12 @@ Let's reload `index.html` and try out our new comment form. If we did everything
 
 ## Summary
 
-We've walked through creating a very basic template for a blog comments section, starting with the problematic and unsustainable practice of editing HTMl directly and ending with a nicely modular way of collecting comment data and displaying it on our blog post in a predictable, repeatable way.
+We've walked through creating a very basic template for a blog comments section, starting with the problematic and unsustainable practice of editing HTML directly and ending with a nicely modular way of collecting comment data and displaying it on our blog post in a predictable, repeatable way.
 
 ## Resources
 
 - [MDN: innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 - [MDN: appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 - [MDN: createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-hand-written-templates'>Javascript Hand Written Templates</a> on Learn.co and start learning to code for free.</p>
