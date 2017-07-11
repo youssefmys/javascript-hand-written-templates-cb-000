@@ -159,7 +159,7 @@ function postNewComment(body, commenter) {
 }
 ```
 
-Now that we've broken it up into these three functions, we can pass any comment text and commenter to them and build out a fully-formed, well-formatted comment `div` without having to worry about hand creating the tags every time.
+Now that we've broken it up into these four functions, we can pass any comment text and commenter to them and build out a fully-formed, well-formatted comment `div` without having to worry about hand creating the tags every time.
 
 We also now have the ability to modify the structure of the HTML we use for comments, say, adding new elements or CSS classes, without affecting how we collect and insert the data of the comments themselves.
 
