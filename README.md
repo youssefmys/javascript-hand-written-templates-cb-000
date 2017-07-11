@@ -53,7 +53,7 @@ Okay, we did it. Let's add another paragraph for the commenter's name, since we 
 </div>
 ```
 
-Great! Now we have another comments, so let's go ahead and get back in that HTML and add it.
+Great! Now we have another comment, so let's go ahead and get back in that HTML and add it.
 
 ![frustrated Jordan](http://i.giphy.com/LJ1XTfxW60Luw.gif)
 
